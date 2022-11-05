@@ -1,2 +1,2 @@
 # DiceeGame
-Make a simple dic game using HTML,CSS and javaScript.
+Make a simple dicee game using HTML,CSS and javaScript.
